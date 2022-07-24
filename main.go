@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"api/api.go"
+	"github.com/Hlebushkek/GoTestAPI/api"
 )
 
 const (

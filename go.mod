@@ -1,3 +1,3 @@
-module github.com/go-genesis-1
+module github.com/Hlebushkek/GoTestAPI
 
 go 1.18
